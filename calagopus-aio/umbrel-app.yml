@@ -6,7 +6,7 @@ version: "1.1.5"
 tagline: A modern game server management panel built in Rust. Deploy, monitor,
   and manage Minecraft, Hytale, and other game servers with industry-leading performance.
 description: >-
-  [Calagopus](https://calagopus.com) is a modern, open-source game server
+  Calagopus is a modern, open-source game server
   management panel built with Rust and React. It provides a fast, secure
   interface for deploying, monitoring, and maintaining game servers
   - built for everyone from solo homelabbers to large hosting operators.
